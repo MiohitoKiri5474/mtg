@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Gamer MiohitoKiri
+title: 標題再說
 subtitle:
-description: 生きている事。 ああ、それは、何というやりきれない息もたえだえの大事業であろうか。
+description: 
 keywords:
 author: MiohitoKiri5474
 language: en
@@ -13,8 +13,8 @@ timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://miohitokiri5474.github.io/game
-root: /game
+url: https://miohitokiri5474.github.io/mtg
+root: /mtg
 permalink: :title/
 permalink_defaults:
 
@@ -73,13 +73,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: one-paper
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:MiohitoKiri5474/game.git
+  repository: git@github.com:MiohitoKiri5474/mtg.git
   branch: master
 
 neat_enable: true 
